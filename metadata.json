@@ -1,0 +1,10 @@
+{
+  "name": "VoxPrompter",
+  "description": "Desktop-first Voice-over Teleprompter and Audio Recorder",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
